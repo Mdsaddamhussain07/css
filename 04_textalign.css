@@ -1,0 +1,24 @@
+p{
+    text-align:center; /*start measn right*/    
+}
+h1{
+    text-align:center; /* right;left;start;end*/
+    text-decoration:value; /* value = underline;overline;line-through;blink*/
+    font-weight:bold;  /* you can set 100-900 or normal/bold/bolder/lighter*/
+    text-decoration: red wavy underline; /*wavy means zigzak*/
+}
+a{
+    text-decoration:none;
+}
+#one {
+     font-family:cursive;  /*font style change like arial,cursive,fantasy,system-ui,sans-serif,serif*/
+     line-height: 50px;
+     text-transform: uppercase;
+}
+#two{
+    font-family:fantasy; /*you can set multiple fint value by , */
+    line-height: 30px; /*this means gap btwn two line*/
+    text-transform: capitalize;
+}
+
+

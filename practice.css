@@ -1,0 +1,13 @@
+h1{
+    text-align: center;
+    text-transform: capitalize;
+}
+*{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#outer{             
+    font-size: 25px;
+}         /*when u change    outer div inner div utomatically change*/
+#inner{
+    font-size: 10px;
+}

@@ -1,0 +1,13 @@
+#box{
+    background-color: blue;
+     color:white; 
+}
+ .head{
+    color:red
+}
+h1,h2,h3{
+    color:rgb(145, 233, 233)
+} 
+button{
+    background-color: rgb(128, 0, 0);
+}
