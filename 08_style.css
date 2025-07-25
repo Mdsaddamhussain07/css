@@ -1,0 +1,53 @@
+body{
+    text-align: center;
+    
+}
+div{
+    height: 100px;
+    width: 200px;
+    border: 2px solid black;
+    display: inline-block;
+}
+   
+
+
+#container{
+    height: 300px;
+    width: 600px;
+    display: flex;
+     flex-direction:row; /* by default is row we can set row-reverse, column,column-reverse*/
+    justify-content: center; /* center,flex-start,flex-end,space-around,space-between*/
+    /* flex-wrap: wrap; */
+    align-items: flex-start;
+    /* align-content: center; */
+}
+#box1{
+    
+    background-color: green;
+    
+    
+    
+}
+#box2{
+    
+    background-color: red;
+    height: 200px;
+    flex-shrink: 0;
+    
+   
+}
+#box3{
+   
+    background-color: yellow;
+    height: 75px;
+  
+    
+}
+#box4{
+    
+    background-color: rgb(42, 137, 219);
+   
+}
+#box5{
+    background-color:pink;
+}
